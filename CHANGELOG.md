@@ -3,6 +3,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [2.0.3](https://github.com/anodynos/redux-observable-thunk/compare/v2.0.2...v2.0.3) (2022-11-15)
+
+
+### Bug Fixes
+
+* bumping versions ([682aae6](https://github.com/anodynos/redux-observable-thunk/commit/682aae6821cdbe6c7356edf620b3f0e5a2a10734))
+
 ## [2.0.2](https://github.com/whazor/redux-observable-thunk/compare/2.0.1...v2.0.2) (2022-10-24)
 
 
