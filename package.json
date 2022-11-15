@@ -1,6 +1,6 @@
 {
   "name": "redux-observable-thunk",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Add thunks and redux-toolkit integration into redux-observable",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
